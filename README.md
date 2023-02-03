@@ -125,6 +125,10 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 
 ## Text Matting
 
+**2023**
+
+**2022**
+
 **2021**
 - ATM: Attentional Text Matting [WACV] [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Kang_ATM_Attentional_Text_Matting_WACV_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/TextMatting/TextMatting.svg?logo=github&label=Stars)](https://github.com/TextMatting/TextMatting)
 
