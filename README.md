@@ -152,4 +152,4 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 
 - https://github.com/pkang2017/image-matting [![GitHub stars](https://img.shields.io/github/stars/pkang2017/image-matting.svg?logo=github&label=Stars)](https://github.com/pkang2017/image-matting)
 - https://github.com/wchstrife/Awesome-Image-Matting [![GitHub stars](https://img.shields.io/github/stars/wchstrife/Awesome-Image-Matting.svg?logo=github&label=Stars)](https://github.com/wchstrife/Awesome-Image-Matting)
-- https://github.com/michaelowenliu/awesome-image-matting [![GitHub stars](https://img.shields.io/github/stars/wchstrife/Awesome-Image-Matting.svg?logo=github&label=Stars)](https://github.com/michaelowenliu/awesome-image-matting)
+- https://github.com/michaelowenliu/awesome-image-matting [![GitHub stars](https://img.shields.io/github/stars/michaelowenliu/awesome-image-matting.svg?logo=github&label=Stars)](https://github.com/michaelowenliu/awesome-image-matting)
