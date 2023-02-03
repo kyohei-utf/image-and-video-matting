@@ -121,7 +121,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Attention-guided Temporal Coherent Video Object Matting [ACMMM] [paper](https://arxiv.org/pdf/2105.11427.pdf) [![GitHub stars](https://img.shields.io/github/stars/yunkezhang/TCVOM.svg?logo=github&label=Stars)](https://github.com/yunkezhang/TCVOM)
 
 **2020**
-- BackgroundMattingV2: Real-Time High-Resolution Background Matting [CVPR][paper]([https://openaccess.thecvf.com/content/WACV2021/papers/Kang_ATM_Attentional_Text_Matting_WACV_2021_paper.pdf](https://arxiv.org/pdf/2012.07810.pdf)) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2)
+- BackgroundMattingV2: Real-Time High-Resolution Background Matting [CVPR] [paper](https://arxiv.org/pdf/2012.07810.pdf) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2)
 
 **2015**
 - Video Matting via Sparse and Low-Rank Representation [ICCV](https://openaccess.thecvf.com/content_iccv_2015/papers/Zou_Video_Matting_via_ICCV_2015_paper.pdf)
