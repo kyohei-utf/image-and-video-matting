@@ -50,6 +50,7 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 
 **2020**
 
+- U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection [CVPR] [paper](https://arxiv.org/pdf/2005.09007.pdf) [![GitHub stars](https://img.shields.io/github/stars/xuebinqin/U-2-Net.svg?logo=github&label=Stars)](https://github.com/xuebinqin/U-2-Net)
 - Background Matting: The World Is Your Green Screen [CVPR] [paper](https://arxiv.org/abs/2004.00626) [![GitHub stars](https://img.shields.io/github/stars/senguptaumd/Background-Matting.svg?logo=github&label=Stars)](https://github.com/senguptaumd/Background-Matting) :thumbsup: :thumbsup: :thumbsup:
 - Attention-Guided Hierarchical Structure Aggregation for Image Matting [CVPR] [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/wukaoliu/CVPR2020-HAttMatting.svg?logo=github&label=Stars)](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 - Boosting Semantic Human Matting With Coarse Annotations [CVPR] [paper](https://arxiv.org/pdf/2004.04955.pdf)
@@ -118,6 +119,9 @@ Human-Object Interaction [ICCV] [paper](https://openaccess.thecvf.com/content/IC
 - Video Matting via Consistency-Regularized Graph Neural Networks [ICCV] [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Video_Matting_via_Consistency-Regularized_Graph_Neural_Networks_ICCV_2021_paper.pdf) [![GitHub stars](https://img.shields.io/github/stars/TiantianWang/VideoMatting-CRGNN.svg?logo=github&label=Stars)](https://github.com/TiantianWang/VideoMatting-CRGNN)
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation [CVPR] [paper](https://arxiv.org/pdf/2104.11208.pdf) [![GitHub stars](https://img.shields.io/github/stars/nowsyn/DVM.svg?logo=github&label=Stars)](https://github.com/nowsyn/DVM)
 - Attention-guided Temporal Coherent Video Object Matting [ACMMM] [paper](https://arxiv.org/pdf/2105.11427.pdf) [![GitHub stars](https://img.shields.io/github/stars/yunkezhang/TCVOM.svg?logo=github&label=Stars)](https://github.com/yunkezhang/TCVOM)
+
+**2020**
+- BackgroundMattingV2: Real-Time High-Resolution Background Matting [CVPR][paper]([https://openaccess.thecvf.com/content/WACV2021/papers/Kang_ATM_Attentional_Text_Matting_WACV_2021_paper.pdf](https://arxiv.org/pdf/2012.07810.pdf)) [![GitHub stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2.svg?logo=github&label=Stars)](https://github.com/PeterL1n/BackgroundMattingV2)
 
 **2015**
 - Video Matting via Sparse and Low-Rank Representation [ICCV](https://openaccess.thecvf.com/content_iccv_2015/papers/Zou_Video_Matting_via_ICCV_2015_paper.pdf)
